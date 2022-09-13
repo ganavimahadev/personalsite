@@ -1,0 +1,17 @@
+body{
+    background-color:lavenderblush;
+}
+h1{
+    color: #9c799e;
+}
+h3{
+    color: #9c799e;
+
+}
+hr{
+    background-color: white;
+    border-style:none;
+    width: 30%;
+    border-color:gray ;
+    border-width: 5px;
+}
